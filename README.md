@@ -7,12 +7,13 @@ I'm 4th year Software Engineering student at the [Pontificial Catholic Universit
 ```py
 class Me:
   def __init__(self):
-    self.languages = [python, c++, javascript, typescript, ruby, sql, html]
+    self.languages = [python, c, c++, javascript, typescript, ruby, sql, html]
     self.speaking_languages = [native_spanish, c2_english]
-    self.technologies = [ruby_on_rails, react, nextjs, postgresql, docker, redis, tailwindcss]
+    self.technologies = [koa, fastapi, react, nextjs, docker, redis, tailwindcss, postgresql, ruby_on_rails]
     self.infra = [aws, vercel, render, terraform]
 ```
-
+### My projects ( ˘▽˘)っ♨
+You can check them out in my page (WIP) >=D
 ### What I'm vibing with right now (〜￣▽￣)〜
 <p align="center">
   <a href="https://open.spotify.com/track/4ZxtydSHCl0eZ9a9CWtOIF?si=da8f8db2ac5f48dd">
@@ -22,7 +23,10 @@ class Me:
   <strong>SEXY DANCE</strong> by Masayoshi Takanaka
 </p>
 
-### Contact 
+### Contact (-_・)っ📱
+[![tomasjacksonmu@gmail.com](https://img.shields.io/badge/-tomasjacksonmu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomasjacksonmu@gmail.com)
+[![Telegram](https://img.shields.io/badge/-tomas\_jacksonm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tomas_jacksonm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomas%20Jackson%20Munoz-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tomas-jackson-munoz/)
 
 
 <!--
