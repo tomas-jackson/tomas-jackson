@@ -10,7 +10,7 @@ class Me:
     self.languages = [python, c, c++, javascript, typescript, ruby, sql, html]
     self.speaking_languages = [native_spanish, c2_english]
     self.technologies = [koa, fastapi, react, nextjs, docker, redis, tailwindcss, postgresql, ruby_on_rails]
-    self.infra = [aws, vercel, render, terraform]
+    self.cloud = [aws, vercel, render, terraform]
 ```
 ### What I'm vibing with right now
 <p align="center">
